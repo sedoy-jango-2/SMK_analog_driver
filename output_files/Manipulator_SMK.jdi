@@ -1,0 +1,16 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="d244112df4bcb20b42b7"/>
+  </project>
+  <file_info>
+    <file device="10M50DAF484C6GES" path="Manipulator_SMK.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="ADC_controller:ADC_controller_template" name="ADC_controller_template">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME ADC_controller HAS_SOPCINFO 1 GENERATION_ID 1583937062"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>
